@@ -1,18 +1,17 @@
 <template>
   <div class="viewNumberOne">
     <h1>View 1</h1>
-    <Categories></Categories>
+    <Category1></Category1>
   </div>
 </template>
 
 <script>
 
-  import Categories from '@/components/Categories'
-
+  import Category1 from '@/components/Category1'
 
 export default {
   name: 'Home',
   
-  components: { Categories },
+  components: { Category1 },
 };
 </script>
