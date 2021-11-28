@@ -6,27 +6,23 @@
       </v-row>
     </v-system-bar>
     
-    <v-app-bar app>
-      <v-row justify="center">
-        <strong> v-app-bar </strong>
-      </v-row>
+    <v-app-bar>
+        <Navbar></Navbar>
     </v-app-bar>
 
+
+
     <v-card height="86vh">
-      <v-navigation-drawer absolute permanent left>
-        <v-container fill-height>
-          <v-card-text>
-            <center>
-              <strong> v-navigation-drawer </strong>
-            </center>
-          </v-card-text>
-        </v-container>
-      </v-navigation-drawer>
+      <NavigationDrawer></NavigationDrawer>
 
       <v-container fill-height>
         <v-card-text>
           <center>
-            <strong> v-content </strong>
+            <strong> 
+              <v-content>
+                <router-view></router-view>
+              </v-content> 
+            </strong>
           </center>
         </v-card-text>
       </v-container>
@@ -47,7 +43,12 @@
 </template>
 
 <script>
+  import Navbar from '@/components/Navbar'
+  import NavigationDrawer from '@/components/NavigationDrawer'
+  
+
   export default {
+    components:{ Navbar, NavigationDrawer },
     data: () => ({
       links: [],
     }),
