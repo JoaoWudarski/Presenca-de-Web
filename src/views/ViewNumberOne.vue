@@ -1,17 +1,16 @@
 <template>
   <div class="viewNumberOne">
-    <h1>View 1</h1>
-    <Category1></Category1>
+    <Category categoryCode=1></Category>
   </div>
 </template>
 
 <script>
 
-  import Category1 from '@/components/Category1'
+  import Category from '@/components/Category'
 
 export default {
   name: 'Home',
   
-  components: { Category1 },
+  components: { Category },
 };
 </script>
