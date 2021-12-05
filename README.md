@@ -5,7 +5,7 @@ Home
 ![image](https://user-images.githubusercontent.com/65422447/143784681-5f3be7f9-d607-4b73-81ad-93fdc7e70371.png)
 
 View 1
-![image](https://user-images.githubusercontent.com/65422447/143784688-d6e228ab-60c1-4b4e-9309-e0eb1b6b4680.png)
+![image](https://user-images.githubusercontent.com/65422447/144762945-d3a975e8-5ba0-462b-8d12-228659e5934f.png)
 
 View 2
 ![image](https://user-images.githubusercontent.com/65422447/143784698-565e7d94-a49e-4a6d-b287-b20d168299c0.png)
