@@ -1,16 +1,21 @@
 <template>
   <div class="viewNumberFour">
     <Category categoryCode=4></Category>
+    <Product categoryCode=4></Product>
   </div>
 </template>
 
 <script>
 
   import Category from '@/components/Category'
+  import Product from '@/components/Product'
 
 export default {
-  name: 'Home',
+  name: 'ViewNumberFour',
   
-  components: { Category },
+  components: { Category, Product },
+  created() {
+      this.$store.dispatch("getProductsApi");
+  }
 };
 </script>
