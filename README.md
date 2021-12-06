@@ -5,16 +5,16 @@ Home
 ![image](https://user-images.githubusercontent.com/65422447/143784681-5f3be7f9-d607-4b73-81ad-93fdc7e70371.png)
 
 View 1
-![image](https://user-images.githubusercontent.com/65422447/144762945-d3a975e8-5ba0-462b-8d12-228659e5934f.png)
+![image](https://user-images.githubusercontent.com/65422447/144773713-42c60498-7e53-42c3-ba2d-80b4a78f1d85.png)
 
 View 2
-![image](https://user-images.githubusercontent.com/65422447/143784698-565e7d94-a49e-4a6d-b287-b20d168299c0.png)
+![image](https://user-images.githubusercontent.com/65422447/144773912-01ea803f-4f79-4141-9630-49f1e44bd340.png)
 
 View 3
-![image](https://user-images.githubusercontent.com/65422447/143784704-6baa51e2-d0d7-43ce-9944-c8a31a11a1cd.png)
+![image](https://user-images.githubusercontent.com/65422447/144773938-ce8b4482-b865-4790-b640-6c2ad6160e43.png)
 
 View 4
-![image](https://user-images.githubusercontent.com/65422447/143784706-a14f35b6-aaac-40d5-9766-0b9518d62506.png)
+![image](https://user-images.githubusercontent.com/65422447/144773953-a9fbbf86-2209-4037-8820-f17138920e94.png)
 
 
 ## Project setup
