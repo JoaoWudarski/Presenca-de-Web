@@ -15,6 +15,7 @@ export default {
   
   components: { Category, Product },
   created() {
+  
       this.$store.dispatch("getProductsApi");
   }
 };
