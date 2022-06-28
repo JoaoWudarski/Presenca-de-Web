@@ -8,7 +8,7 @@ import ViewNumberFour from '../views/ViewNumberFour.vue'
 
 const routes = [
   {
-    path: '/',
+    path: '/d',
     name: 'Home',
     component: Home
   },
