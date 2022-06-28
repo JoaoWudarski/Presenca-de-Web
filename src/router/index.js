@@ -16,6 +16,7 @@ const routes = [
     path: '/viewOne',
     name: 'ViewNumberOne',
     component: ViewNumberOne
+    
   },
   {
     path: '/viewTwo',
