@@ -10,7 +10,9 @@
         <Navbar></Navbar>
     </v-app-bar>
 
-
+    <v-app-bar>
+        <Navbar></Navbar>
+    </v-app-bar>
 
     <v-card height="86vh">
       <NavigationDrawer></NavigationDrawer>
