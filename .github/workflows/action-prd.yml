@@ -21,10 +21,15 @@ jobs:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
     - run: npm install
-
+    - name: Create a gitHub release/tag
+      uses: release-drafter/release-drafter@v5
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: Publish release
+    - id: github_release
       uses: JamesMGreene/node-draft-releaser@v1
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-        allow_release_name_update: 'false'
+    - run: echo "Released at $RELEASE_URL"
+      env:
+        RELEASE_URL: ${{ steps.github_release.outputs.release_url }}
