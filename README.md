@@ -4,7 +4,7 @@
 Home
 ![image](https://user-images.githubusercontent.com/65422447/143784681-5f3be7f9-d607-4b73-81ad-93fdc7e70371.png)
 
-View 1
+View 1 
 ![image](https://user-images.githubusercontent.com/65422447/144773713-42c60498-7e53-42c3-ba2d-80b4a78f1d85.png)
 
 View 2
