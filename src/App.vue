@@ -5,7 +5,6 @@
         <strong> v-system-bar </strong>
       </v-row>
     </v-system-bar>
-    
     <v-app-bar>
         <Navbar></Navbar>
     </v-app-bar>
